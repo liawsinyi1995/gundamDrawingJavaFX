@@ -1,4 +1,4 @@
-# gundamDrawingJavaFX(drawing code)
+# gundamDrawingJavaFX(drawing code of gundam)
 
 package gundam;
 
